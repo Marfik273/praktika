@@ -1,2 +1,2 @@
 # praktika
-# fitst
+# fitst.html
